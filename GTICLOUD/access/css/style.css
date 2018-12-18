@@ -1,0 +1,46 @@
+.login-page-bg-color {
+    background-color:#748393;
+}
+.login-card-area {
+
+    width:80%;
+    margin:0 auto;
+
+}
+.card.white.card-wrap {
+    padding: 5%;
+    height:auto;
+}
+
+.padding-0 {
+    padding:0;
+}
+.gti-btn {
+    height: 100%;
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.content-area {
+    margin-left:0px;
+    padding:20px;
+    width:auto;
+    height:auto;
+}
+.btn {
+    background-color:#3d4068 !important;
+
+}
+.theme-color {
+    color:#3d4068 !important;
+}
+.theme-bg-color {
+    background-color:#3d4068 !important;
+}
+
+a#refresh {
+    margin-top: -50px;
+}
